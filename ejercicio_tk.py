@@ -13,7 +13,7 @@ descripcion = StringVar()
 
 # Etiquetas
 
-# Proximamente un condicional (vamos!)
+# Proximamente un condicional (a ver vamos de nuevo!)
 
 Label(root, text = "Ingrese sus datos", bg = "pink", fg = "white", width = 60, heigh = 1).grid(column=0, row=0, columnspan=3, sticky=W+E)
 Label(root, text = "Titulo").grid(column = 0, row = 2, sticky = W)
